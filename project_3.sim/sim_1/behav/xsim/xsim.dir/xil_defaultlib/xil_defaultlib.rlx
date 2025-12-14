@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+E:/projects/project_3/project_3.gen/sources_1/ip/add/sim/add.vhd,1765646650,vhdl,,,,add,,,,,,,,
+E:/projects/project_3/project_3.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+E:/projects/project_3/project_3.srcs/sim_1/new/stimuli.v,1765682783,verilog,,,,stimuli,,,../../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+E:/projects/project_3/project_3.srcs/sources_1/new/newadder.v,1765646820,verilog,,E:/projects/project_3/project_3.srcs/sim_1/new/stimuli.v,,newadder,,,../../../../../../2025.2/Vivado/data/rsb/busdef,,,,,

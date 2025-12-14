@@ -1,0 +1,36 @@
+Vivado Simulator v2025.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: E:/2025.2/Vivado/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L xbip_utils_v3_0_15 -L c_reg_fd_v12_0_11 -L xbip_dsp48_wrapper_v3_0_7 -L xbip_pipe_v3_0_11 -L c_addsub_v12_0_21 -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot stimuli_behav xil_defaultlib.stimuli xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package c_addsub_v12_0_21.c_addsub_v12_0_21_viv_comp
+Compiling package xbip_utils_v3_0_15.xbip_utils_v3_0_15_pkg
+Compiling package xbip_pipe_v3_0_11.xbip_pipe_v3_0_11_viv_comp
+Compiling package c_addsub_v12_0_21.c_addsub_v12_0_21_pkg
+Compiling package c_addsub_v12_0_21.c_addsub_v12_0_21_pkg_legacy
+Compiling package c_reg_fd_v12_0_11.c_reg_fd_v12_0_11_viv_comp
+Compiling package unisim.vcomponents
+Compiling architecture structural of entity c_reg_fd_v12_0_11.c_reg_fd_v12_0_11_viv [\c_reg_fd_v12_0_11_viv(c_sync_pr...]
+Compiling architecture structural of entity c_reg_fd_v12_0_11.c_reg_fd_v12_0_11_viv [\c_reg_fd_v12_0_11_viv(c_width=4...]
+Compiling architecture muxcy_v of entity unisim.MUXCY [muxcy_default]
+Compiling architecture xorcy_v of entity unisim.XORCY [xorcy_default]
+Compiling architecture rtl of entity c_addsub_v12_0_21.c_addsub_v12_0_21_lut6_legacy [\c_addsub_v12_0_21_lut6_legacy(c...]
+Compiling architecture synth of entity c_addsub_v12_0_21.c_addsub_v12_0_21_fabric_legacy [\c_addsub_v12_0_21_fabric_legacy...]
+Compiling architecture synth of entity c_addsub_v12_0_21.c_addsub_v12_0_21_legacy [\c_addsub_v12_0_21_legacy(c_fami...]
+Compiling architecture synth of entity c_addsub_v12_0_21.c_addsub_v12_0_21_viv [\c_addsub_v12_0_21_viv(c_xdevice...]
+Compiling architecture xilinx of entity c_addsub_v12_0_21.c_addsub_v12_0_21 [\c_addsub_v12_0_21(c_xdevicefami...]
+Compiling architecture add_arch of entity xil_defaultlib.add [add_default]
+Compiling module xil_defaultlib.newadder
+Compiling module xil_defaultlib.stimuli
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot stimuli_behav

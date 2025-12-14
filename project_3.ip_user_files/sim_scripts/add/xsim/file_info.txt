@@ -1,0 +1,1 @@
+add.vhd,vhdl,xil_defaultlib,../../../../project_3.gen/sources_1/ip/add/sim/add.vhd,incdir="../../../../../../2025.2/Vivado/data/rsb/busdef"

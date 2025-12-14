@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Sat Dec 13 22:54:15 2025
+# Process ID         : 31020
+# Current directory  : E:/projects/project_3/project_3.runs/add_synth_1
+# Command line       : vivado.exe -log add.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source add.tcl
+# Log file           : E:/projects/project_3/project_3.runs/add_synth_1/add.vds
+# Journal file       : E:/projects/project_3/project_3.runs/add_synth_1\vivado.jou
+# Running On         : LAPTOP-E042CELU
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) i7-14700HX
+# CPU Frequency      : 2304 MHz
+# CPU Physical cores : 20
+# CPU Logical cores  : 28
+# Host memory        : 16869 MB
+# Swap memory        : 6979 MB
+# Total Virtual      : 23848 MB
+# Available Virtual  : 7224 MB
+#-----------------------------------------------------------
+source add.tcl -notrace
