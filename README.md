@@ -17,3 +17,6 @@ Carry[i+1] = (A[i] · B[i]) + (Carry[i] · (A[i] ⊕ B[i]))
 Sum[3:0] → 4-bit sum output
 Cout → Final carry-out from the MSB
 
+## Simulation Result
+
+![image alt](https://github.com/Angelo30-p/4-Bit-FullAdder/blob/a77dbb7b958ba7bf757bb48d9676217dc7436591/simulation.png)
